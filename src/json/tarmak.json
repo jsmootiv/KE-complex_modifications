@@ -1,0 +1,410 @@
+{
+    "title": "Tarmak layouts",
+    "rules": [
+        {
+            "description": "Tarmak1(E) on qwerty keyboard",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "e"
+                    },
+                    "to": [
+                        {
+                            "key_code": "j"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "j"
+                    },
+                    "to": [
+                        {
+                            "key_code": "n"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "k"
+                    },
+                    "to": [
+                        {
+                            "key_code": "e"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "n"
+                    },
+                    "to": [
+                        {
+                            "key_code": "k"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Tarmak2(ET) on qwerty keyboard",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "e"
+                    },
+                    "to": [
+                        {
+                            "key_code": "f"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "t"
+                    },
+                    "to": [
+                        {
+                            "key_code": "g"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "f"
+                    },
+                    "to": [
+                        {
+                            "key_code": "t"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "g"
+                    },
+                    "to": [
+                        {
+                            "key_code": "j"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "j"
+                    },
+                    "to": [
+                        {
+                            "key_code": "n"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "k"
+                    },
+                    "to": [
+                        {
+                            "key_code": "e"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "n"
+                    },
+                    "to": [
+                        {
+                            "key_code": "k"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Tarmak3(ETR) on qwerty keyboard",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "e"
+                    },
+                    "to": [
+                        {
+                            "key_code": "f"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "r"
+                    },
+                    "to": [
+                        {
+                            "key_code": "j"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "t"
+                    },
+                    "to": [
+                        {
+                            "key_code": "g"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "s"
+                    },
+                    "to": [
+                        {
+                            "key_code": "r"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "d"
+                    },
+                    "to": [
+                        {
+                            "key_code": "s"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "f"
+                    },
+                    "to": [
+                        {
+                            "key_code": "t"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "g"
+                    },
+                    "to": [
+                        {
+                            "key_code": "d"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "j"
+                    },
+                    "to": [
+                        {
+                            "key_code": "n"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "k"
+                    },
+                    "to": [
+                        {
+                            "key_code": "e"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "n"
+                    },
+                    "to": [
+                        {
+                            "key_code": "k"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "description": "Tarmak4(ETRO) on qwerty keyboard",
+            "manipulators": [
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "e"
+                    },
+                    "to": [
+                        {
+                            "key_code": "f"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "r"
+                    },
+                    "to": [
+                        {
+                            "key_code": "p"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "t"
+                    },
+                    "to": [
+                        {
+                            "key_code": "g"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "y"
+                    },
+                    "to": [
+                        {
+                            "key_code": "j"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "o"
+                    },
+                    "to": [
+                        {
+                            "key_code": "y"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "p"
+                    },
+                    "to": [
+                        {
+                            "key_code": "semicolon"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "s"
+                    },
+                    "to": [
+                        {
+                            "key_code": "r"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "d"
+                    },
+                    "to": [
+                        {
+                            "key_code": "s"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "f"
+                    },
+                    "to": [
+                        {
+                            "key_code": "t"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "g"
+                    },
+                    "to": [
+                        {
+                            "key_code": "d"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "j"
+                    },
+                    "to": [
+                        {
+                            "key_code": "n"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "k"
+                    },
+                    "to": [
+                        {
+                            "key_code": "k"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "semicolon"
+                    },
+                    "to": [
+                        {
+                            "key_code": "o"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "n"
+                    },
+                    "to": [
+                        {
+                            "key_code": "k"
+                        }
+                    ]
+                }
+            ]
+        },           
+    ]
+}
